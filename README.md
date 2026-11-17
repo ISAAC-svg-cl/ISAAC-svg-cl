@@ -1,43 +1,47 @@
-# Hi there! I'm Isaac 👋
+# Salut ! Moi c'est Isaac 👋
 
-I'm a passionate Full-Stack Developer focused on building modern,
-secure and scalable web applications.
+Je suis un **développeur Frontend** passionné, avec un vrai sens du design,
+spécialisé dans la création d'interfaces web modernes, propres et
+agréables à utiliser.
 
-I enjoy turning real-world problems into practical digital solutions,
-with a strong focus on clean architecture, user experience and
-database-driven applications.
+J'ai aussi des connaissances en développement backend, ce qui me permet
+de collaborer facilement sur des applications connectées à une base de données.
 
-## 🚀 What I Do
+J'aime transformer des problèmes concrets en solutions numériques
+pratiques, en mettant l'accent sur l'UI/UX, le responsive design et
+un code propre.
 
-### Full-Stack Development
+## 🚀 Ce que je fais
 
-I build complete web applications from frontend interfaces to
-backend services and databases.
+### 💻 Développement Frontend
 
-My main technologies include Next.js, React, TypeScript, Prisma
-and PostgreSQL.
+Je conçois des interfaces modernes, responsives et accessibles.
 
-### 🏗️ Application Architecture
+Mes principales technologies sont Next.js, React, TypeScript
+et Tailwind CSS.
 
-I work with modern architectures including:
+### 🎨 UI/UX & Design
 
-- Next.js App Router
-- TypeScript
-- REST APIs
+Je soigne les détails qui rendent une application agréable à utiliser :
+
+- Interfaces propres et modernes
+- Design responsive (mobile first)
+- Mises en page et identité visuelle cohérentes
+- Expérience centrée sur l'utilisateur
+- Attention portée aux espacements, à la typographie et aux couleurs
+
+### ⚙️ Notions de Backend
+
+Je suis à l'aise pour intervenir côté backend quand c'est nécessaire :
+
+- Routes API Next.js / API REST
 - Prisma ORM
 - PostgreSQL
-- Authentication
-- Role-Based Access Control
-- Database design
-
-### 🔐 Security & Authorization
-
-I implement authentication, authorization and role-based access
-control to protect application resources and user data.
+- Authentification de base et gestion des rôles
 
 ---
 
-## 🛠️ My Toolkit
+## 🛠️ Ma boîte à outils
 
 ### Frontend
 
@@ -49,14 +53,14 @@ control to protect application resources and user data.
 - Next.js
 - Tailwind CSS
 
-### Backend & Database
+### Backend & Base de données (notions)
 
 - Node.js
 - Prisma
 - PostgreSQL
-- REST APIs
+- API REST
 
-### Development Tools
+### Outils de développement
 
 - Git
 - GitHub
@@ -65,58 +69,58 @@ control to protect application resources and user data.
 
 ---
 
-## 🎓 Education
+## 🎓 Formation
 
-### Bachelor's Degree in Computer Science
+### Licence en Informatique
 
-**Protestant University of Lubumbashi (UPL)**
+**Université Protestante de Lubumbashi (UPL)**
 
-Focus: Computer Science / Software Development
+Domaine : Informatique / Développement logiciel
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projets réalisés
 
 ### 🎓 UPL-StageConnect
 
-Platform for managing, monitoring and validating internships
-between students, companies and the university.
+Plateforme de gestion, de suivi et de validation des stages
+entre les étudiants, les entreprises et l'université.
 
-**Stack:** Next.js • TypeScript • Prisma • PostgreSQL
+**Stack :** Next.js • TypeScript • Prisma • PostgreSQL
 
 ### 🏨 Hotel Reservation
 
-Modern hotel reservation and management platform.
+Plateforme moderne de réservation et de gestion hôtelière.
 
-**Stack:** Next.js • TypeScript • Prisma • PostgreSQL
+**Stack :** Next.js • TypeScript • Prisma • PostgreSQL
 
 ### 💰 DGRAD Digital Platform
 
-Digital platform for managing and tracking public revenue
-collection processes.
+Plateforme numérique de gestion et de suivi des processus
+de collecte des recettes publiques.
 
-**Stack:** Next.js • TypeScript • Prisma • PostgreSQL
+**Stack :** Next.js • TypeScript • Prisma • PostgreSQL
 
 ### 🎓 UPL Réclamations
 
-Platform for managing and tracking university complaints.
+Plateforme de gestion et de suivi des réclamations universitaires.
 
-**Stack:** Next.js • TypeScript • Prisma • PostgreSQL
+**Stack :** Next.js • TypeScript • Prisma • PostgreSQL
 
 ---
 
-## 🌍 Languages
+## 🌍 Langues
 
-- 🇫🇷 French
-- 🇬🇧 English
+- 🇫🇷 Français
+- 🇬🇧 Anglais
 - 🇨🇩 Swahili
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Restons en contact
 
-I'm interested in software development, web technologies,
-open-source projects and building useful digital solutions.
+Je m'intéresse au développement frontend, au design UI/UX, aux
+technologies web et aux projets open source.
 
 - 💼 LinkedIn
 - 🌐 Portfolio
@@ -124,7 +128,7 @@ open-source projects and building useful digital solutions.
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -132,6 +136,7 @@ open-source projects and building useful digital solutions.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -140,16 +145,16 @@ open-source projects and building useful digital solutions.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Statistiques GitHub
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISAAC-svg-cl&show_icons=true&theme=github_dark)
+![Statistiques GitHub d'Isaac](https://github-readme-stats.vercel.app/api?username=ISAAC-svg-cl&show_icons=true&theme=github_dark)
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Série de contributions
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ISAAC-svg-cl&theme=github-dark)
 
 ---
 
-### 💻 Build. Learn. Improve. Repeat. 🚀
+### 🎨 Concevoir. Construire. Améliorer. Recommencer. 🚀
